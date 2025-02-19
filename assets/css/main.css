@@ -1307,6 +1307,10 @@ body.is-ie .wrapper.fullscreen {
 		height: 20vw;
 	}
 
+	.mySwiper {
+		height: 90vh;
+	}
+
 }
 
 
